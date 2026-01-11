@@ -121,4 +121,4 @@ Website Developers must coordinate with Game Developers to receive:
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **[MIT License](https://github.com/Planter-flower-Team/Plantar-flower-website-template/blob/main/LICENSE)**.
